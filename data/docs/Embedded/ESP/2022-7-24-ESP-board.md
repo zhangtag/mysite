@@ -1,5 +1,5 @@
 ---
-title: ⌨️ESP32
+title: ⌨️ESP32开发板项目
 sidebar_position: 3
 ---
 

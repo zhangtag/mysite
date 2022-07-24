@@ -29,10 +29,19 @@ export const siteData: SiteDataType = {
 //顶部通知栏
 export const tips: TipItem[] = [
     {
-        id: 'update',
+        id: 'welcome',
         content:
-            '欢迎',
-        color: 'warning',
+            '欢迎，图片素材较多，打开的可能比较忙，请耐心等待一会儿吧☕',
+        color: 'success',
+        pages: ['blog'],
+        closeTime: 3600 * 24,
+        center: true,
+    },
+    {
+        id: 'tip',
+        content:
+            '桌面版💻阅读体验更好哦~',
+        color: 'success',
         pages: ['blog'],
         closeTime: 3600 * 24,
         center: true,
@@ -42,7 +51,7 @@ export const tips: TipItem[] = [
     //     content:
     //         '欢迎找我,🐧:1849600177   👉 请点击左侧(移动为底部)工具栏选择更多方式联系或关注我!',
     //     pages: ['about'],
-    //     color: 'success',
+    //     color: 'success',warning
     //     center: true,
     //     closeable: false,
     // },
