@@ -1,4 +1,6 @@
 {
-    "position": 3,
-    "label": "baetyl"
+    "position": 4,
+    "label": "🐛baetyl",
+    "collapsible": true,
+    "collapsed": true
 }

@@ -11,6 +11,12 @@ export const linksData: LinkCategory[] = [
                 href: 'https://www.yltzdhbc.top/',
                 logo: 'https://www.yltzdhbc.top/logos/explore.svg',
             },
+            {
+                name: '武汉知名CEO',
+                desc: ' ',
+                href: 'https://blog.csdn.net/qq_44343584',
+                logo: 'https://www.yltzdhbc.top/logos/explore.svg',
+            },
         ],
     },
     {

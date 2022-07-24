@@ -1,4 +1,6 @@
 {
-    "position": 2,
-    "label": "EdgeX"
+    "position": 3,
+    "label": "🕸️EdgeX",
+    "collapsible": true,
+    "collapsed": true
 }

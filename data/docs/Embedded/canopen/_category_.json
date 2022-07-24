@@ -1,4 +1,6 @@
 {
-    "position": 1,
-    "label": "CANOpen"
-}
+    "label": "📈CANOpen",
+    "position": 2,
+    "collapsible": true,
+    "collapsed": true
+  }

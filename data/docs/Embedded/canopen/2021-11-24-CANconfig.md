@@ -1,5 +1,5 @@
 ---
-title: 移植篇：CAN配置
+title: ☕移植篇：CAN配置
 sidebar_position: 2
 ---
 

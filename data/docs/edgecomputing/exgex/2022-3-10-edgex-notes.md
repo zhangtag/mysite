@@ -1,5 +1,6 @@
 ---
-title: 烂笔头
+title: 🥥烂笔头
+sidebar_position: 4
 ---
 
 1. edgex源码开始是以java为基础，但是体积太大所以用Go语言改写，同时提供了部分C的开发SDK。

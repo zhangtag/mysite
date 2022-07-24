@@ -1,5 +1,5 @@
 ---
-title: 烂笔头
+title: 🍧烂笔头
 sidebar_position: 10
 ---
 

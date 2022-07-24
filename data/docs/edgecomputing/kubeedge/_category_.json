@@ -1,4 +1,6 @@
 {
-    "position": 1,
-    "label": "kubeedge"
+    "position": 2,
+    "label": "🌾kubeedge",
+    "collapsible": true,
+    "collapsed": true
 }

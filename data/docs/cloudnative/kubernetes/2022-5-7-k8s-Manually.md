@@ -1,5 +1,5 @@
 ---
-title: 手动
+title: 🍐 手动安装
 sidebar_position: 2
 ---
 

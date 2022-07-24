@@ -103,7 +103,7 @@ function CardCategory({ item }: { item: PropSidebarItemCategory }): JSX.Element 
     return (
         <CardLayout
             href={href}
-            icon="🗃️"
+            icon=""
             className={item.className}
             title={item.label}
             item={item}

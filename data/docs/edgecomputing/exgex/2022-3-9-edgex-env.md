@@ -1,5 +1,5 @@
 ---
-title: EdgeX开发环境
+title: 🫒EdgeX开发环境
 sidebar_position: 1
 ---
 

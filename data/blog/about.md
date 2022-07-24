@@ -1,14 +1,14 @@
 ---
-slug: about
-title: 关于站长和小站
-image: '/images/about.jpg'
+slug: about # 别名
+title: 关于我和小站
+image: '/images/blog/about.webp'
 authors: [zhang]
 rf_type: image
-rf_summary: 聊一聊生活,谈一谈技术,以及一个好的技术分享网站的诞生
-rf_banner: true
-rf_noloop: true
-rf_comment: false
-rf_excerpt: false
+rf_summary: 记录生活，记录工作
+rf_banner: false #文档顶部图片
+rf_noloop: true # 主页大图显示
+rf_comment: true #评论
+rf_excerpt: true # 文档详细信息
 order: 1
 ---
 import Tabs from '@theme/Tabs';

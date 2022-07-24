@@ -1,18 +1,8 @@
 ---
-# slug: about
-
-title: 自动安装
-
-image: https://picx.zhimg.com/v2-9f5254f279df121d881a70807513b829_1440w.jpg?source=172ae18b
-
+title: 🍊 自动安装
 authors: [zhang]
-
-# rf_type: image
-
 rf_summary: 自动安装k8s集群
-
 sidebar_position: 1
-
 ---
 
 

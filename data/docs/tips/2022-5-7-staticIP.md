@@ -1,5 +1,5 @@
 ---
-title: 设置静态IP/hostname
+title: 🌐设置静态IP/hostname
 ---
 
 

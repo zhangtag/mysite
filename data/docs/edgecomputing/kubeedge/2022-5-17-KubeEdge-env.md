@@ -1,5 +1,5 @@
 ---
-title: env
+title: 🍩env
 sidebar_position: 3
 ---
 

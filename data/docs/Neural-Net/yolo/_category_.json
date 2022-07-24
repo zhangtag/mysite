@@ -1,4 +1,6 @@
 {
-    "position": 1,
-    "label": "yolo"
+    "position": 4,
+    "label": "🔭yolo",
+    "collapsible": true,
+    "collapsed": true
 }

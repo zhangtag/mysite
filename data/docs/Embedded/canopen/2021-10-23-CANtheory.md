@@ -1,5 +1,5 @@
 ---
-title: 原理篇：CAN与CANOpen基础
+title: 🥛原理篇：CAN与CANOpen基础
 sidebar_position: 1
 ---
 

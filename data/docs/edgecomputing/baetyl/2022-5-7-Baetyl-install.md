@@ -1,5 +1,5 @@
 ---
-title: Baetyl 安装
+title: 🥕Baetyl 安装
 hide_table_of_contents: true
 ---
 

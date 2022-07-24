@@ -1,4 +1,6 @@
 {
-    "position": 1,
-    "label": "docker"
-}
+    "label": "☁️ docker",
+    "position": 2,
+    "collapsible": true,
+    "collapsed": true
+  }

@@ -1,15 +1,17 @@
 ---
-slug: 2022-4-14-EdgeComputing
-
-authors: [zhang]
-
+slug: EdgeComputing
 title: 边缘计算综述
-
+image: 'images/blog/edgecompoting.webp'
+authors: [zhang]
+rf_type: image
 rf_summary: 该篇禁止复制转载😉
-
-date: 2021-09-13T10:00
-
+rf_banner: true #文档顶部图片
+rf_noloop: false # 主页大图显示
+rf_comment: true #评论
+rf_excerpt: true # 文档详细信息
+order: 2
 ---
+
 
 ## 1 边缘计算概述
 

@@ -1,5 +1,5 @@
 ---
-title: 快速运行Edgex
+title: 🫐快速运行Edgex
 sidebar_position: 2
 ---
 

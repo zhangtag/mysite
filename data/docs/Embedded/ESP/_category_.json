@@ -1,4 +1,6 @@
 {
-    "position": 2,
-    "label": "ESP"
-}
+    "label": "🎛️esp",
+    "position": 3,
+    "collapsible": true,
+    "collapsed": true
+  }
