@@ -31,7 +31,7 @@ export const tips: TipItem[] = [
     {
         id: 'welcome',
         content:
-            '欢迎，图片素材较多，打开的可能比较忙，请耐心等待一会儿吧☕',
+            '欢迎，图片素材较多，打开的可能比较慢，请耐心等待一会儿吧☕',
         color: 'success',
         pages: ['blog'],
         closeTime: 3600 * 24,

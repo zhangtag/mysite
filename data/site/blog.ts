@@ -11,7 +11,7 @@ export const carousels: CarouselItemType[] = [
         image: '/images/blog/navigation.webp',
         link: '/links',
         title: '网站导航',
-        // description: '记录生活,记录工作',
+        description: '一些有利于人类进步的链接',
     },
     // {
     //     image: 'https://pic.pincman.com/media/202206301908022.png?imageMogr2/format/webp',
