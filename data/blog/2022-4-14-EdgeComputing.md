@@ -3,7 +3,7 @@ slug: EdgeComputing
 title: 边缘计算综述
 image: 'images/blog/edgecompoting.webp'
 authors: [zhang]
-rf_type: image
+# rf_type: image
 rf_summary: 该篇禁止复制转载😉
 rf_banner: true #文档顶部图片
 rf_noloop: false # 主页大图显示

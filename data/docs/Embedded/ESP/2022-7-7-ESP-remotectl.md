@@ -46,7 +46,7 @@ def main():
     # 2. 创建UDP
     udp_socket = start_udp()
     # 3. 创建灯对象
-    led = machine.Pin(22, machine.Pin.OUT)
+    led = machine.Pin(2, machine.Pin.OUT)
     # 4. 接收网络数据
     print("初始化完成")
     while True:
