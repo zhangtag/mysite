@@ -45,7 +45,7 @@ import TabItem from '@theme/TabItem';
 
 - 通信协议
 
-  CAN(CANOpen)、I2C、SPI、TCP/IP等
+  CAN(CANOpen)、I2C、SPI、TCP/IP、MQTT等
 
 </details>
 
