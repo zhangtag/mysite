@@ -31,13 +31,13 @@ opkg install cfdisk
 cfdisk		# 进入磁盘管理，移动光标创建新卷，保存退出
 ~~~
 
-![cfdisk](2022-7-27-router-docker/cfdisk.gif)
+![cfdisk](/img/router/2022-7-27-router-docker/cfdisk.gif)
 
 ### 挂载到overlay
 
 进入路由后台，在系统/挂载卷中添加挂载卷，将新建卷挂载到/overlay
 
-![disk](2022-7-27-router-docker/disk.gif)
+![disk](/img/router/2022-7-27-router-docker/disk.gif)
 
 ## 保存重启
 
