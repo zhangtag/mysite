@@ -1,5 +1,6 @@
 ---
 title: 📊python数据可视化
+slug: python数据可视化
 ---
 
 

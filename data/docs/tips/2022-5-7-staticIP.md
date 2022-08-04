@@ -1,5 +1,6 @@
 ---
 title: 🌐设置静态IP/hostname
+slug: 设置静态IP/hostname
 ---
 
 
