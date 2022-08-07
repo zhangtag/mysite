@@ -25,6 +25,7 @@ ESP32 WROOM 、E72物联网射频芯片
 - [x] 电路原理图
 - [x] PCB
 - [x] 打样验证
+- [ ] 完善文档
 
 
 
@@ -32,3 +33,6 @@ ESP32 WROOM 、E72物联网射频芯片
 
 
 ![image-20220804162519181](/img/2022-7-26-ESP-zigbee/image-20220804162519181.png)
+
+
+手头没有zigebee设备，和HomeAssistant联动后完善文档

@@ -46,6 +46,15 @@ export const tips: TipItem[] = [
         closeTime: 3600 * 24,
         center: true,
     },
+    {
+        id: 'tip',
+        content:
+            '更多内容请转到<资料>查看',
+        color: 'success',
+        pages: ['blog'],
+        closeTime: 3600 * 24,
+        center: true,
+    },
     // {
     //     id: 'concat',
     //     content:
