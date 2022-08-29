@@ -1,6 +1,6 @@
 ---
 slug: EdgeComputing
-title: 边缘计算综述
+title: 综述
 image: 'images/blog/edgecompoting.webp'
 authors: [zhang]
 # rf_type: image
@@ -9,7 +9,8 @@ rf_banner: true #文档顶部图片
 rf_noloop: false # 主页大图显示
 rf_comment: true #评论
 rf_excerpt: true # 文档详细信息
-order: 2
+order: 0
+sidebar_position: 0
 ---
 
 
